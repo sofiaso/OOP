@@ -1,0 +1,17 @@
+	Computer
+Name: computer1
+Price: 3400
+Number: 2
+Firm: firm1
+Diagonal: 456
+	Telephone
+Name: telephone1
+Price: 4000
+Number: 19
+Firm: firm2
+Memory: 128
+	Headphones
+Name: headphones1
+Price: 120
+Number: 45
+Firm: firm3
